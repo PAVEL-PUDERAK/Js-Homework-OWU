@@ -36,7 +36,7 @@
 //     document.write(`<div><p>${text}</p></div>`)
 //     }
 //     CreateParagraph("Хочеш Їсти зїж печенько")
-// CreateParagraph("Авжеш хочу")
+//     CreateParagraph("Авжеш хочу")
 // //  - створити функцію яка створює ul з трьома елементами li. Текст li задати через аргумент всім однаковий
 // function CreateUl(arg){
 //     document.write(`<ul>`)
