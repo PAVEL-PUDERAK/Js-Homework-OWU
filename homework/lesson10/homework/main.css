@@ -1,0 +1,51 @@
+.body{
+    margin: 10px;
+}
+.displayON{
+    display: block;
+}
+.item {
+    background: silver;
+    width: 200px;
+    height: 45px;
+    border-radius: 2px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 10px;
+    cursor: pointer;
+    height: 200px;
+    width: 250px;
+
+}
+.title {
+    background: silver;
+    width: 200px;
+    height: 200px;
+    border-radius: 2px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 10px;
+}
+.displayOFF{
+    display: none;
+}
+
