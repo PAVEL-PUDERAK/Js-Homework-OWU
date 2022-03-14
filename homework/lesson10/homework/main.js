@@ -5,7 +5,7 @@
 // document.body.append(divElement);
 // divElement.innerHTML= (`<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium dignissimos dolores fugit id mollitia necessitatibus nemo nisi numquam quae quam.</p>`);
 // divElement.setAttribute("id", "text");
-// button.innerText = 'НАТИСНИ ЩОБ ТЕКСТ ЗНИК І ';
+// button.innerText = 'НАТИСНИ ЩОБ ТЕКСТ ЗНИК І ЗНОВУ ПОЯВИВСЯ ';
 // divElement.classList.add('displayON')
 // button.onclick = function TextHider() {
 //     let text = document.getElementById("text");
