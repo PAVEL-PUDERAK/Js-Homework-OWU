@@ -1,0 +1,67 @@
+.btn{
+    background: #d9fa07;
+    width: 120px;
+    height: 25px;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+.father-div{
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+}
+.child-div{
+    width: 180px;
+    height: 200px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background: beige;
+    border: solid 1px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: calc(25% - 180px);
+    margin-right: calc(25% - 180px);
+}
+
+.div-forDetails {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-top: 50px;
+    background: aliceblue;
+}
+.div-forDetailsFather{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0;
+}
+h1{
+    background: cadetblue;
+    margin: 0;
+    height: 100px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+}
